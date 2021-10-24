@@ -1,12 +1,13 @@
+
+
+
+
+package strings;
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-
-
-
-package strings;
 
 public class Initialzer {
 
