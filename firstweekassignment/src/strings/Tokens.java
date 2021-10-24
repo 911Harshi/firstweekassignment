@@ -1,9 +1,9 @@
-import java.io.*;
-import java.util.*;
+
 
 
 
 package strings;
+import java.util.*;
 
 public class Tokens {
 	if (s.trim().length()==0 || s.trim().length()>400000)
