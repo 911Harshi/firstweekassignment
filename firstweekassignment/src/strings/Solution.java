@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 
-package stringintroduction;
+package strings;
 
 public class Solution {
 	
