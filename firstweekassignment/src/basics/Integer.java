@@ -1,6 +1,7 @@
-import java.util.*;
+
 
 package basics;
+import java.util.*;
 
 public class Integer {
 	
